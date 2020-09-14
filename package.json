@@ -1,0 +1,25 @@
+{
+  "name": "ecommerce-mf",
+  "version": "1.0.0",
+  "description": "N/A",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phmiranda/ecommerce-mf.git"
+  },
+  "keywords": [
+    "alura"
+  ],
+  "author": "Pedro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phmiranda/ecommerce-mf/issues"
+  },
+  "homepage": "https://github.com/phmiranda/ecommerce-mf#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1"
+  }
+}
